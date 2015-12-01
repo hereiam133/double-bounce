@@ -1,0 +1,26 @@
+{
+  "name": "double-bounce",
+  "version": "1.0.0",
+  "authors": [
+    "Anonymous <hereiam133@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "double-bounce"
+  ],
+  "main": "double-bounce.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/hereiam133/double-bounce/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
